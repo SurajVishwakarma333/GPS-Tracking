@@ -1,7 +1,9 @@
 # GPS-Tracking-App
 It is an GPS Tracking application which can track your current location and update in every 5 second in real time.
 
-TODO: Before you run your application, you need a Google Maps API key.
+
+
+             TODO: Before you run your application, you need a Google Maps API key.
 
              To get one, follow the directions here:
 
