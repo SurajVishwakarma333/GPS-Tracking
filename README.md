@@ -39,3 +39,41 @@ Turn on location Updates to get your current location
 
 
 
+You can check the waypoint of your every location by clicking on NEW WAY POINT button.
+note: to get new waypoint try to turn on/off the location update.
+
+
+
+![WhatsApp Image 2022-04-22 at 12 03 24 PM (4)](https://user-images.githubusercontent.com/101108540/164618528-f39501e9-c3f4-462d-a668-41d3b2a68ea1.jpeg)
+
+
+
+here you can see your every new waypoint location latitude and longitude.
+
+
+
+
+![WhatsApp Image 2022-04-22 at 12 03 24 PM (5)](https://user-images.githubusercontent.com/101108540/164618602-58d11049-3766-4d68-aa81-01c03c9232bd.jpeg)
+
+
+
+
+
+you can check your location on Google map by tapping on OPEN MAP button
+
+
+
+
+
+
+![WhatsApp Image 2022-04-22 at 12 03 24 PM (6)](https://user-images.githubusercontent.com/101108540/164618716-cd2963b7-e40c-487d-a212-d22d0b7c8186.jpeg)
+
+
+
+
+
+
+
+
+
+
