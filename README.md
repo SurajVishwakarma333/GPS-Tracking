@@ -15,4 +15,3 @@ It is an GPS Tracking application which can track your current location and upda
 ![WhatsApp Image 2022-04-22 at 12 03 24 PM](https://user-images.githubusercontent.com/101108540/164617452-77fe1b75-9778-4c1a-8efa-3cb8b85988c8.jpeg)
 
 Allow access the device location.
-![WhatsApp Image 2022-04-22 at 12 03 24 PM (1)](https://user-images.githubusercontent.com/101108540/164617628-784c6965-1d98-43a7-a711-dc6a83f3f6ef.jpeg)
