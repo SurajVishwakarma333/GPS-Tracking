@@ -40,6 +40,10 @@ Turn on location Updates to get your current location
 
 
 You can check the waypoint of your every location by clicking on NEW WAY POINT button.
+
+
+
+
 note: to get new waypoint try to turn on/off the location update.
 
 
