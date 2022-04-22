@@ -14,4 +14,5 @@ It is an GPS Tracking application which can track your current location and upda
              "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
 ![WhatsApp Image 2022-04-22 at 12 03 24 PM](https://user-images.githubusercontent.com/101108540/164617452-77fe1b75-9778-4c1a-8efa-3cb8b85988c8.jpeg)
 
-Allow access the device location.![WhatsApp Image 2022-04-22 at 12 03 24 PM (1)](https://user-images.githubusercontent.com/101108540/164617750-e047ec09-d2fa-4258-a8bd-4005b6d6e6d5.jpeg)
+Allow access the device location.
+![WhatsApp Image 2022-04-22 at 12 03 24 PM (1)](https://user-images.githubusercontent.com/101108540/164617750-e047ec09-d2fa-4258-a8bd-4005b6d6e6d5.jpeg)
