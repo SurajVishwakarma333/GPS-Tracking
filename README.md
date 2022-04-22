@@ -1,6 +1,8 @@
 # GPS-Tracking-App
 It is an GPS Tracking application which can track your current location and update in every 5 second in real time.
+
 where you can check your
+
 1.Latitude
     
 2.Longitude
